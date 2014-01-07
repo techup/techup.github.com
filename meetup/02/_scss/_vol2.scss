@@ -60,6 +60,18 @@
       -moz-border-radius: 4px;
       border-radius: 4px;
       font-size: 13px;
+      dl{
+        margin: 0;
+        padding: 0;
+      }
+      dt{
+        display: inline;
+        font-weight: normal;
+      }
+      dd{
+        display: inline;
+        margin: 0;
+      }
     }
     h2{
       margin-bottom: 10px;
